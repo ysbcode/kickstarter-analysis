@@ -9,12 +9,12 @@ We performed our analysis in a structured way and tackeled one category at a tim
 ### Analysis of Outcomes Based on Launch Date
 The below line chart shows our analysis based on Launch Date and we can see the major volume is mid of the year
 ___
-!img[Outcomes vs Launch](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+![Outcomes vs Launch](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 ___
 ### Analysis of Outcomes Based on Goals
 The below line chart shows with Lower Goal amount the percentage of successful campaign is higher
 ___
-!img[Outcomes vs Goals](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+![Outcomes vs Goals](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 ### Challenges and Difficulties Encountered
 * Using COUNTIFS function but used google and examples given in the lesson and figured out how to select and filter different ranges.
 * Uploading Resource as a folder on GitHub. Found out the easiest way to do that is drag and drop the entire forler.
