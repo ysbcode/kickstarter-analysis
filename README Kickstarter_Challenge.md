@@ -9,7 +9,7 @@ We performed our analysis in a structured way and tackeled one category at a tim
 ### Analysis of Outcomes Based on Launch Date
 The below line chart shows our analysis based on Launch Date and we can see the major volume is mid of the year
 ___
-!img[Theater Outcomes vs Launch](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+!img[Outcomes vs Launch](https://github.com/ysbcode/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 ___
 ### Analysis of Outcomes Based on Goals
 The below line chart shows with Lower Goal amount the percentage of successful campaign is higher
